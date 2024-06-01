@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: step1
         run: echo hello
-      - name: step1
+      - name: step2
         run: |
           echo hello2
           echo hello3
