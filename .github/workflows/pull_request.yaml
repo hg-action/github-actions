@@ -13,3 +13,4 @@ jobs:
         run: |
           echo hello2
           echo hello3
+          echo hello3
